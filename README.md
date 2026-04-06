@@ -1,26 +1,24 @@
+
 # Octet-Économe ☕
 
 Outil maison pour **réduire la taille de tes fichiers HTML** sans perte d'info.  
-Remplace espaces par 1 bit + Huffman sur le reste → gain 50-60 % sur pages web.
-
-
+Remplace les espaces par 1 bit + Huffman sur le reste → gain 50-60 % sur les pages web.
 
 ## Comment l'utiliser (mobile ou PC)
+
 1. Lance le script.  
-2. Tape ton chemin de fichier (ex: /storage/emulated/0/Download/monhtml.html).  
+2. Tape ton chemin de fichier (ex: `/storage/emulated/0/Download/monhtml.html`).  
 3. Clique → gain affiché + bitstream sauvegardé.
 
-## Exemple gain
-HTML 13 Ko → ~5 Ko après.  
+## Exemple de gain
 
-  Buy Me A Coffee
- Si ça te plaît : un café ? ☕  
+HTML 13 Ko → ~5 Ko après.
+
+Si ça te plaît : un café ? ☕  
 <a href="https://www.buymeacoffee.com/massfranck" target="_blank">  
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">  
-</a>   (https://www.buymeacoffee.com/massfranck)
+</a>
+
+Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/Octet-économe.txt)  
+
 Licence : MIT – fais-en ce que tu veux.
-
-
-Lien direct du fichier
-Ton fichier est déjà accessible :
-https://github.com/tedehur/gh/blob/main/Octet-économe.txt
