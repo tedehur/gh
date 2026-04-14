@@ -22,3 +22,4 @@ Si ça te plaît : un café ? ☕
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/Octet-économe.txt)  
 
 Licence : MIT – fais-en ce que tu veux.
+https://buymeacoffee.com/eve2.0
