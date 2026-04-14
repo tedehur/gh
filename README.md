@@ -14,9 +14,9 @@ Remplace les espaces par 1 bit + Huffman sur le reste → gain 50-60 % sur les p
 
 HTML 13 Ko → ~5 Ko après.
 
-Si ça te plaît : un café ? ☕  
+Si ça te plaît : un café ? ☕  https://buymeacoffee.com/eve2.0
 
 Lien direct du fichier : (https://github.com/tedehur/gh/blob/main/Octet-économe.txt)  
 
 Licence : MIT – fais-en ce que tu veux.
-https://buymeacoffee.com/eve2.0
+
