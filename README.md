@@ -15,7 +15,7 @@ Remplace les espaces par 1 bit + Huffman sur le reste → gain 50-60 % sur les p
 HTML 13 Ko → ~5 Ko après.
 
 Si ça te plaît : un café ? ☕  
-<a href="https://www.buymeacoffee.com/massfranck" target="_blank">  
+<a href="https://buymeacoffee.com/eve2" target="_blank">  
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">  
 </a>
 
